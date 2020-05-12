@@ -1,0 +1,2 @@
+# SchoolBoard
+Okul Dijital panosu
